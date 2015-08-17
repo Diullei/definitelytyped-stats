@@ -1,0 +1,6 @@
+/dist
+/tmp-process
+/.tsdrc
+/node_modules
+/src/*.js
+/src/*.js.map
