@@ -2,7 +2,11 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
+<<<<<<< Updated upstream
     "updatedAt": 1439787994382000001,
+=======
+    "updatedAt": 1439787994382002,
+>>>>>>> Stashed changes
     "count": 1049,
     "content": [
         {
