@@ -10,18 +10,11 @@ mkdir tmp-process
 
 #node dist/gen-definition-index.js
 
-# ref http://stackoverflow.com/questions/7933044/commit-a-file-to-a-different-branch-without-checkout
-destBranch=stats
-thisBranch=master
-FileToPutToOtherBranch="definition-index.json"
-message="patched files $FileToPutToOtherBranch"
-                                                                                  #assumption: we are on master to which modifications to file.txt should not belong
-git stash &&\                                                                     #at this point we have clean repository to $thisBranch
-git checkout -b $destBranch &&\
-git checkout stash@{0} -- $FileToPutToOtherBranch &&                              #if there are many files, repeat this step
-                                                                                  #create branch if does not exist (param -b)
-git add $FileToPutToOtherBranch &&\                                               # at this point this is equal to git add . --update
-git commit -m "$message" &&\
-git checkout $thisBranch &&\
-git stash apply &&\                                                               # or pop if want to loose backup
-git checkout $thisBranch -- $FileToPutToOtherBranch                               # get unpatched files from previous branch
+git stash
+git checkout stats
+rm definition-index.json
+git add -u
+git stash apply
+git add .
+git commit -m "update"
+git checkout master
