@@ -22,3 +22,5 @@ git stash apply
 git add .
 git commit -m "update"
 git checkout master
+
+git push
