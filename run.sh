@@ -1,3 +1,7 @@
+sudo npm install
+
+grunt
+
 rm -rf tmp-process
 mkdir tmp-process
 
