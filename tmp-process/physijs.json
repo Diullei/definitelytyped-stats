@@ -1,1 +1,0 @@
-{"project":"physijs","name":"physijs","path":"physijs/physijs.d.ts","semver":null,"info":{"references":["../threejs/three.d.ts"],"name":"Physijs","version":"","description":"","projectUrl":"http://chandlerprall.github.io/Physijs","authors":[{"name":"Satoru Kimura","url":"https://github.com/gyohk"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

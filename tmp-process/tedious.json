@@ -1,1 +1,0 @@
-{"project":"tedious","name":"tedious","path":"tedious/tedious.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"tedious 1.8.0","version":"1.8.0","description":"","projectUrl":"https://pekim.github.io/tedious","authors":[{"name":"Rogier Schouten","url":"https://github.com/rogierschouten"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,1 +1,0 @@
-{"project":"riotjs","name":"riotjs","path":"riotjs/riotjs.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"riot.js","version":"","description":"","projectUrl":"https://github.com/moot/riotjs","authors":[{"name":"vvakame","url":"https://github.com/vvakame"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

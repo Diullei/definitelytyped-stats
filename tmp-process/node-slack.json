@@ -1,1 +1,0 @@
-{"project":"node-slack","name":"node-slack","path":"node-slack/node-slack.d.ts","semver":null,"info":{"references":["../request/request.d.ts"],"name":"node-slack","version":"","description":"","projectUrl":"https://github.com/xoxco/node-slack","authors":[{"name":"Qubo","url":"https://github.com/tkQubo"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

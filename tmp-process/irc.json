@@ -1,1 +1,0 @@
-{"project":"irc","name":"irc","path":"irc/irc.d.ts","semver":null,"info":{"references":["../node/node-0.10.d.ts"],"name":"irc v0.3.12","version":"0.3.12","description":"","projectUrl":"https://github.com/martynsmith/node-irc","authors":[{"name":"phillips1012","url":"https://github.com/phillips1012"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

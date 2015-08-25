@@ -1,1 +1,0 @@
-{"project":"fhir","name":"fhir","path":"fhir/fhir.d.ts","semver":null,"info":{"references":[],"name":"FHIR DSTU2 v0.5.0","version":"0.5.0","description":"","projectUrl":"http://www.hl7.org/fhir/2015May/index.html","authors":[{"name":"Artifact Health","url":"www.artifacthealth.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

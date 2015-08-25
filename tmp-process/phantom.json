@@ -1,1 +1,0 @@
-{"project":"phantom","name":"phantom","path":"phantom/phantom.d.ts","semver":null,"info":{"references":[],"name":"PhantomJS bridge for NodeJS 0.7.0","version":"0.7.0","description":"","projectUrl":"https://github.com/sgentle/phantomjs-node","authors":[{"name":"horiuchi","url":"https://github.com/horiuchi"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,1 +1,0 @@
-{"project":"flight","name":"flight","path":"flight/flight.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"Flight 1.1.4","version":"1.1.4","description":"","projectUrl":"http://flightjs.github.com/flight","authors":[{"name":"Jonathan Hedrén","url":"https://github.com/jonathanhedren"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

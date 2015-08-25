@@ -1,1 +1,0 @@
-{"project":"hashids","name":"hashids","path":"hashids/hashids.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"Hashids.js 1.x","version":"1","description":"","projectUrl":"https://github.com/ivanakimov/hashids.node.js","authors":[{"name":"Paulo Cesar","url":"https://github.com/pocesar"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

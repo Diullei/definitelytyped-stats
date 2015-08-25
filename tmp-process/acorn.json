@@ -1,1 +1,0 @@
-{"project":"acorn","name":"acorn","path":"acorn/acorn.d.ts","semver":null,"info":{"references":["../estree/estree.d.ts"],"name":"Acorn v1.0.1","version":"1.0.1","description":"","projectUrl":"https://github.com/marijnh/acorn","authors":[{"name":"RReverser","url":"https://github.com/RReverser"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

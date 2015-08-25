@@ -1,1 +1,0 @@
-{"project":"toastr","name":"toastr","path":"toastr/toastr.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"Toastr 2.0.1","version":"2.0.1","description":"","projectUrl":"https://github.com/CodeSeven/toastr","authors":[{"name":"Boris Yankov","url":"https://github.com/borisyankov"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

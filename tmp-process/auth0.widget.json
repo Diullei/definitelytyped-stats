@@ -1,1 +1,0 @@
-{"project":"auth0.widget","name":"auth0.widget","path":"auth0.widget/auth0.widget.d.ts","semver":null,"info":{"references":["../auth0/auth0.d.ts"],"name":"Auth0Widget.js","version":"","description":"","projectUrl":"http://auth0.com","authors":[{"name":"Robert McLaws","url":"https://github.com/advancedrei"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

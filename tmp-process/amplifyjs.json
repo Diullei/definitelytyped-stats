@@ -1,1 +1,0 @@
-{"project":"amplifyjs","name":"amplifyjs","path":"amplifyjs/amplifyjs.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"AmplifyJs 1.1.0","version":"1.1.0","description":"","projectUrl":"http://amplifyjs.com","authors":[{"name":"Jonas Eriksson","url":"https://github.com/joeriks"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

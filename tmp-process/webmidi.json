@@ -1,1 +1,0 @@
-{"project":"webmidi","name":"webmidi","path":"webmidi/webmidi.d.ts","semver":null,"info":{"references":["../es6-promise/es6-promise.d.ts"],"name":"Web MIDI API","version":"","description":"","projectUrl":"http://www.w3.org/TR/webmidi","authors":[{"name":"Toshiya Nakakura","url":"https://github.com/nakakura"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

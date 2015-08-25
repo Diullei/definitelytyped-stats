@@ -1,1 +1,0 @@
-{"project":"bl","name":"bl","path":"bl/bl.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"BufferList v0.8.0","version":"0.8.0","description":"","projectUrl":"https://github.com/rvagg/bl","authors":[{"name":"Bart van der Schoor","url":"https://github.com/Bartvds"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

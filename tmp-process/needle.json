@@ -1,1 +1,0 @@
-{"project":"needle","name":"needle","path":"needle/needle.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"needle 0.7.8","version":"0.7.8","description":"","projectUrl":"https://github.com/tomas/needle","authors":[{"name":"San Chen","url":"https://github.com/bigsan"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

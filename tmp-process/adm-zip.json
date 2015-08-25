@@ -1,1 +1,0 @@
-{"project":"adm-zip","name":"adm-zip","path":"adm-zip/adm-zip.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"adm-zip v0.4.4","version":"0.4.4","description":"","projectUrl":"https://github.com/cthackers/adm-zip","authors":[{"name":"John Vilk","url":"https://github.com/jvilk"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

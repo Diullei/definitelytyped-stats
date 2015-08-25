@@ -1,1 +1,0 @@
-{"project":"sax","name":"sax","path":"sax/sax.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"sax js","version":"","description":"","projectUrl":"https://github.com/isaacs/sax-js","authors":[{"name":"Asana","url":"https://asana.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,1 +1,0 @@
-{"project":"backgrid","name":"backgrid","path":"backgrid/backgrid.d.ts","semver":null,"info":{"references":["../backbone/backbone.d.ts"],"name":"Backgrid 0.2.6","version":"0.2.6","description":"","projectUrl":"http://backgridjs.com","authors":[{"name":"Jeremy Lujan","url":"https://github.com/jlujan"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

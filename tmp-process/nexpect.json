@@ -1,1 +1,0 @@
-{"project":"nexpect","name":"nexpect","path":"nexpect/nexpect.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"nexpect 0.4.2","version":"0.4.2","description":"","projectUrl":"https://github.com/nodejitsu/nexpect","authors":[{"name":"vvakame","url":"http://github.com/vvakame"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

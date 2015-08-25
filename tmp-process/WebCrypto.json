@@ -1,1 +1,0 @@
-{"project":"webcrypto","name":"WebCrypto","path":"webcrypto/WebCrypto.d.ts","semver":null,"info":{"references":[],"name":"WebCrypto","version":"","description":"","projectUrl":"http://www.w3.org/TR/WebCryptoAPI","authors":[{"name":"Lucas Dixon","url":"https://github.com/iislucas"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

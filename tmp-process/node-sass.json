@@ -1,1 +1,0 @@
-{"project":"node-sass","name":"node-sass","path":"node-sass/node-sass.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"Node Sass","version":"","description":"","projectUrl":"https://github.com/sass/node-sass","authors":[{"name":"Asana","url":"https://asana.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

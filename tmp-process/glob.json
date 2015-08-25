@@ -1,1 +1,0 @@
-{"project":"glob","name":"glob","path":"glob/glob.d.ts","semver":null,"info":{"references":["../node/node.d.ts","../minimatch/minimatch.d.ts"],"name":"Glob 5.0.10","version":"5.0.10","description":"","projectUrl":"https://github.com/isaacs/node-glob","authors":[{"name":"vvakame","url":"https://github.com/vvakame"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

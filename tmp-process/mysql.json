@@ -1,1 +1,0 @@
-{"project":"mysql","name":"mysql","path":"mysql/mysql.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"node-mysql","version":"","description":"","projectUrl":"https://github.com/felixge/node-mysql","authors":[{"name":"William Johnston","url":"https://github.com/wjohnsto"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

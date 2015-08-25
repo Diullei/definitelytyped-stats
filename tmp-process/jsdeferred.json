@@ -1,1 +1,0 @@
-{"project":"jsdeferred","name":"jsdeferred","path":"jsdeferred/jsdeferred.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"JSDeferred","version":"","description":"","projectUrl":"https://github.com/cho45/jsdeferred","authors":[{"name":"Daisuke Mino","url":"https://github.com/minodisk"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

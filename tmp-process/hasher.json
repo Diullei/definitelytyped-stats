@@ -1,1 +1,0 @@
-{"project":"hasher","name":"hasher","path":"hasher/hasher.d.ts","semver":null,"info":{"references":["../js-signals/js-signals.d.ts"],"name":"Hasher.js","version":"","description":"","projectUrl":"https://github.com/millermedeiros/hasher","authors":[{"name":"flyfishMT","url":"https://github.com/flyfishMT"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

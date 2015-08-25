@@ -1,1 +1,0 @@
-{"project":"gamequery","name":"gamequery","path":"gamequery/gamequery.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"gameQuery 0.7.0","version":"0.7.0","description":"","projectUrl":"http://gamequeryjs.com","authors":[{"name":"David Laubreiter","url":"https://github.com/Laubi"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

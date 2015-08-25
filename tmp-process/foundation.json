@@ -1,1 +1,0 @@
-{"project":"foundation","name":"foundation","path":"foundation/foundation.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"Foundation v5.5.1","version":"5.5.1","description":"","projectUrl":"http://foundation.zurb.com","authors":[{"name":"Boris Yankov","url":"https://github.com/borisyankov"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

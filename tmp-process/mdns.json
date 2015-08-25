@@ -1,1 +1,0 @@
-{"project":"mdns","name":"mdns","path":"mdns/mdns.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"node_mdns","version":"","description":"","projectUrl":"https://github.com/agnat/node_mdns","authors":[{"name":"Stefan Steinhart","url":"https://github.com/reppners"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

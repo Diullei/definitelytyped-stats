@@ -1,1 +1,0 @@
-{"project":"bunyan","name":"bunyan","path":"bunyan/bunyan.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"node-bunyan","version":"","description":"","projectUrl":"https://github.com/trentm/node-bunyan","authors":[{"name":"Alex Mikhalev","url":"https://github.com/amikhalev"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

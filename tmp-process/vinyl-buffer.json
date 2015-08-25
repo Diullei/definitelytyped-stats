@@ -1,1 +1,0 @@
-{"project":"vinyl-buffer","name":"vinyl-buffer","path":"vinyl-buffer/vinyl-buffer.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"vinyl-buffer","version":"","description":"","projectUrl":"https://github.com/hughsk/vinyl-buffer","authors":[{"name":"Qubo","url":"https://github.com/tkQubo"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

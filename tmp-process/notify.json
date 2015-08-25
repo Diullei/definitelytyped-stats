@@ -1,1 +1,0 @@
-{"project":"notify","name":"notify","path":"notify/notify.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"Notify.js","version":"","description":"","projectUrl":"https://github.com/jpillora/notifyjs","authors":[{"name":"Xiaohan Zhang","url":"https://github.com/hellochar"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

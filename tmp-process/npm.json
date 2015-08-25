@@ -1,1 +1,0 @@
-{"project":"npm","name":"npm","path":"npm/npm.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"npm 2.0.0","version":"2.0.0","description":"","projectUrl":"https://github.com/npm/npm","authors":[{"name":"Maxime LUCE","url":"https://github.com/SomaticIT"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

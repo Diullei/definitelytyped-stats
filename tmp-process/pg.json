@@ -1,1 +1,0 @@
-{"project":"pg","name":"pg","path":"pg/pg.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"pg","version":"","description":"","projectUrl":"https://github.com/brianc/node-postgres","authors":[{"name":"Phips Peter","url":"http://pspeter3.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

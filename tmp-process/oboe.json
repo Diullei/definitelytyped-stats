@@ -1,1 +1,0 @@
-{"project":"oboe","name":"oboe","path":"oboe/oboe.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"oboe v2.0.3","version":"2.0.3","description":"","projectUrl":"https://github.com/jimhigson/oboe.js","authors":[{"name":"Jared Klopper","url":"https://github.com/optical"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

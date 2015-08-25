@@ -1,1 +1,0 @@
-{"project":"filesystem","name":"filesystem","path":"filesystem/filesystem.d.ts","semver":null,"info":{"references":["../filewriter/filewriter.d.ts"],"name":"File System API","version":"","description":"","projectUrl":"http://www.w3.org/TR/file-system-api","authors":[{"name":"Kon","url":"http://phyzkit.net"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

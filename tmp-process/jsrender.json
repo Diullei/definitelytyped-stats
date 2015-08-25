@@ -1,1 +1,0 @@
-{"project":"jsrender","name":"jsrender","path":"jsrender/jsrender.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"JsRender","version":"","description":"","projectUrl":"http://www.jsviews.com/#jsrender","authors":[{"name":"Kensuke Matsuzaki","url":"https://github.com/zakki"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

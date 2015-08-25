@@ -1,1 +1,0 @@
-{"project":"ftp","name":"ftp","path":"ftp/ftp.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"ftp 0.3.8","version":"0.3.8","description":"","projectUrl":"https://github.com/mscdex/node-ftp","authors":[{"name":"Rogier Schouten","url":"https://github.com/rogierschouten"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

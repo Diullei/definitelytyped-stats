@@ -1,1 +1,0 @@
-{"project":"websocket","name":"websocket","path":"websocket/websocket.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"websocket","version":"","description":"","projectUrl":"https://github.com/Worlize/WebSocket-Node","authors":[{"name":"Paul Loyd","url":"https://github.com/loyd"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

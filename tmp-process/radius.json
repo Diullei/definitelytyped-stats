@@ -1,1 +1,0 @@
-{"project":"radius","name":"radius","path":"radius/radius.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"node-radius","version":"","description":"","projectUrl":"https://github.com/retailnext/node-radius","authors":[{"name":"Peter Harris","url":"https://github.com/codeanimal"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

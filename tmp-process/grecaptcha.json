@@ -1,1 +1,0 @@
-{"project":"grecaptcha","name":"grecaptcha","path":"grecaptcha/grecaptcha.d.ts","semver":null,"info":{"references":[],"name":"Google Recaptcha v2","version":"2","description":"","projectUrl":"https://www.google.com/recaptcha","authors":[{"name":"Kristof Mattei","url":"http://kristofmattei.be"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

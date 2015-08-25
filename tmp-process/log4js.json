@@ -1,1 +1,0 @@
-{"project":"log4js","name":"log4js","path":"log4js/log4js.d.ts","semver":null,"info":{"references":["../express/express.d.ts"],"name":"log4js","version":"","description":"","projectUrl":"https://github.com/nomiddlename/log4js-node","authors":[{"name":"Kentaro Okuno","url":"http://github.com/armorik83"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

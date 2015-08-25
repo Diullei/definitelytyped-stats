@@ -1,1 +1,0 @@
-{"project":"split","name":"split","path":"split/split.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"split v0.3.3","version":"0.3.3","description":"","projectUrl":"https://github.com/dominictarr/split","authors":[{"name":"Marcin Porębski","url":"https://github.com/marcinporebski"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

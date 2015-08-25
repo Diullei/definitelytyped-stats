@@ -1,1 +1,0 @@
-{"project":"rsmq","name":"rsmq","path":"rsmq/rsmq.d.ts","semver":null,"info":{"references":["../redis/redis.d.ts"],"name":"rsmq 0.3.16","version":"0.3.16","description":"","projectUrl":"http://smrchy.github.io/rsmq","authors":[{"name":"Qubo","url":"https://github.com/MugeSo"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,1 +1,0 @@
-{"project":"chokidar","name":"chokidar","path":"chokidar/chokidar.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"chokidar 1.0.0","version":"1.0.0","description":"","projectUrl":"https://github.com/paulmillr/chokidar","authors":[{"name":"Stefan Steinhart","url":"https://github.com/reppners"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,1 +1,0 @@
-{"project":"winrt","name":"winrt","path":"winrt/winrt.d.ts","semver":null,"info":{"references":[],"name":"WinRT","version":"","description":"","projectUrl":"http://msdn.microsoft.com/en-us/library/windows/apps/br211377.aspx","authors":[{"name":"TypeScript samples","url":"https://www.typescriptlang.org"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

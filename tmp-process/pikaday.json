@@ -1,1 +1,0 @@
-{"project":"pikaday","name":"pikaday","path":"pikaday/pikaday.d.ts","semver":null,"info":{"references":["../moment/moment.d.ts"],"name":"pikaday","version":"","description":"","projectUrl":"https://github.com/dbushell/Pikaday","authors":[{"name":"Rudolph Gottesheim","url":"http://midnight-design.at"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

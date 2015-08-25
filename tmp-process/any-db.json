@@ -1,1 +1,0 @@
-{"project":"any-db","name":"any-db","path":"any-db/any-db.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"any-db 2.1.0","version":"2.1.0","description":"","projectUrl":"https://github.com/grncdr/node-any-db","authors":[{"name":"Rogier Schouten","url":"https://github.com/rogierschouten"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,1 +1,0 @@
-{"project":"knex","name":"knex","path":"knex/knex.d.ts","semver":null,"info":{"references":["../bluebird/bluebird.d.ts","../node/node.d.ts"],"name":"Knex.js","version":"","description":"","projectUrl":"https://github.com/tgriesser/knex","authors":[{"name":"Qubo","url":"https://github.com/tkQubo"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

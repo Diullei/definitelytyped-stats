@@ -1,1 +1,0 @@
-{"project":"emscripten","name":"emscripten","path":"emscripten/emscripten.d.ts","semver":null,"info":{"references":[],"name":"Emscripten","version":"","description":"","projectUrl":"http://kripken.github.io/emscripten-site/index.html","authors":[{"name":"Kensuke Matsuzaki","url":"https://github.com/zakki"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

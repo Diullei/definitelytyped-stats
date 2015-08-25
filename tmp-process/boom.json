@@ -1,1 +1,0 @@
-{"project":"boom","name":"boom","path":"boom/boom.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"boom","version":"","description":"","projectUrl":"http://github.com/hapijs/boom","authors":[{"name":"Igor Rogatty","url":"http://github.com/rogatty"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

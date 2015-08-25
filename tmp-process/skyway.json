@@ -1,1 +1,0 @@
-{"project":"skyway","name":"skyway","path":"skyway/skyway.d.ts","semver":null,"info":{"references":["../webrtc/RTCPeerConnection.d.ts"],"name":"SkyWay","version":"","description":"","projectUrl":"http://nttcom.github.io/skyway","authors":[{"name":"Toshiya Nakakura","url":"https://github.com/nakakura"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}
