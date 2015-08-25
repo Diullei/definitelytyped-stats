@@ -1,0 +1,1 @@
+{"project":"giraffe","name":"giraffe","path":"giraffe/giraffe.d.ts","semver":null,"info":{"references":["../backbone/backbone.d.ts"],"name":"Giraffe","version":"","description":"","projectUrl":"https://github.com/barc/backbone.giraffe","authors":[{"name":"Matt McCray","url":"https://github.com/darthapo"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

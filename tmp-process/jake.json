@@ -1,0 +1,1 @@
+{"project":"jake","name":"jake","path":"jake/jake.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"jake","version":"","description":"","projectUrl":"https://github.com/mde/jake","authors":[{"name":"Kon","url":"http://phyzkit.net"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

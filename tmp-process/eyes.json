@@ -1,0 +1,1 @@
+{"project":"eyes","name":"eyes","path":"eyes/eyes.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"eyes 0.1.8","version":"0.1.8","description":"","projectUrl":"https://github.com/cloudhead/eyes.js","authors":[{"name":"bryn austin bellomy","url":"https://github.com/brynbellomy"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

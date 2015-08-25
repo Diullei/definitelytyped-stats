@@ -1,0 +1,1 @@
+{"project":"sockjs","name":"sockjs","path":"sockjs/sockjs.d.ts","semver":null,"info":{"references":[],"name":"SockJS 0.3.x","version":"0.3","description":"","projectUrl":"https://github.com/sockjs/sockjs-client","authors":[{"name":"Emil Ivanov","url":"https://github.com/vladev"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,0 +1,1 @@
+{"project":"casperjs","name":"casperjs","path":"casperjs/casperjs.d.ts","semver":null,"info":{"references":["../phantomjs/phantomjs.d.ts"],"name":"CasperJS v1.0.0","version":"1.0.0","description":"","projectUrl":"http://casperjs.org","authors":[{"name":"Jed Mao","url":"https://github.com/jedmao"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

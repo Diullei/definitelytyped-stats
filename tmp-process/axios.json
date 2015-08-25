@@ -1,0 +1,1 @@
+{"project":"axios","name":"axios","path":"axios/axios.d.ts","semver":null,"info":{"references":["../es6-promise/es6-promise.d.ts"],"name":"axios 0.5.2","version":"0.5.2","description":"","projectUrl":"https://github.com/mzabriskie/axios","authors":[{"name":"Marcel Buesing","url":"https://github.com/marcelbuesing"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

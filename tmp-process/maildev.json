@@ -1,0 +1,1 @@
+{"project":"maildev","name":"maildev","path":"maildev/maildev.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"maildev 0.11.0","version":"0.11.0","description":"","projectUrl":"https://github.com/djfarrelly/maildev","authors":[{"name":"Cyril Schumacher","url":"https://github.com/cyrilschumacher"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

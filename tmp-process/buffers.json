@@ -1,0 +1,1 @@
+{"project":"buffers","name":"buffers","path":"buffers/buffers.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"buffers 0.1.1","version":"0.1.1","description":"","projectUrl":"https://github.com/substack/node-buffers","authors":[{"name":"Robert Hencke","url":"https://github.com/rhencke"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

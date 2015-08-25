@@ -1,0 +1,1 @@
+{"project":"gulp","name":"gulp","path":"gulp/gulp.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"Gulp v3.8.x","version":"3.8","description":"","projectUrl":"http://gulpjs.com","authors":[{"name":"Drew Noakes","url":"https://drewnoakes.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

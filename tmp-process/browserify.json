@@ -1,0 +1,1 @@
+{"project":"browserify","name":"browserify","path":"browserify/browserify.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"Browserify","version":"","description":"","projectUrl":"http://browserify.org","authors":[{"name":"Andrew Gaspar","url":"https://github.com/AndrewGaspar"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

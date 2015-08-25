@@ -1,0 +1,1 @@
+{"project":"couchbase","name":"couchbase","path":"couchbase/couchbase.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"Couchbase Couchnode","version":"","description":"","projectUrl":"https://github.com/couchbase/couchnode","authors":[{"name":"Basarat Ali Syed","url":"https://github.com/basarat"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

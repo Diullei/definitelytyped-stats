@@ -1,0 +1,1 @@
+{"project":"gapi","name":"gapi","path":"gapi/gapi.d.ts","semver":null,"info":{"references":[],"name":"Google API Client","version":"","description":"","projectUrl":"https://code.google.com/p/google-api-javascript-client","authors":[{"name":"Frank M","url":"https://github.com/sgtfrankieboy"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

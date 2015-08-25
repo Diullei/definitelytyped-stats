@@ -1,0 +1,1 @@
+{"project":"ref","name":"ref","path":"ref/ref.d.ts","semver":null,"info":{"references":["../node-ffi/node-ffi-buffer.d.ts"],"name":"ref","version":"","description":"","projectUrl":"https://github.com/TooTallNate/ref","authors":[{"name":"Paul Loyd","url":"https://github.com/loyd"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

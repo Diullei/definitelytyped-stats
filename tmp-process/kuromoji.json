@@ -1,0 +1,1 @@
+{"project":"kuromoji","name":"kuromoji","path":"kuromoji/kuromoji.d.ts","semver":null,"info":{"references":["../doublearray/doublearray.d.ts"],"name":"kuromoji.js","version":"","description":"","projectUrl":"https://github.com/takuyaa/kuromoji.js","authors":[{"name":"MIZUSHIMA Junki","url":"https://github.com/mzsm"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

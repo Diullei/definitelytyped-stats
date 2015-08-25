@@ -1,0 +1,1 @@
+{"project":"natural","name":"natural","path":"natural/natural.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"Natural 0.2.1","version":"0.2.1","description":"","projectUrl":"https://github.com/NaturalNode/natural","authors":[{"name":"Dylan R. E. Moonfire","url":"https://github.com/dmoonfire"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

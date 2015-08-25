@@ -1,0 +1,1 @@
+{"project":"csurf","name":"csurf","path":"csurf/csurf.d.ts","semver":null,"info":{"references":["../express/express.d.ts"],"name":"csurf","version":"","description":"","projectUrl":"https://www.npmjs.org/package/csurf","authors":[{"name":"Hiroki Horiuchi","url":"https://github.com/horiuchi"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

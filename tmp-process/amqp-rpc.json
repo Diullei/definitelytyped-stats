@@ -1,0 +1,1 @@
+{"project":"amqp-rpc","name":"amqp-rpc","path":"amqp-rpc/amqp-rpc.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"amqp-rpc v0.0.8","version":"0.0.8","description":"","projectUrl":"https://github.com/demchenkoe/node-amqp-rpc","authors":[{"name":"Wonshik Kim","url":"https://github.com/wokim"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,0 +1,1 @@
+{"project":"gulp-sass","name":"gulp-sass","path":"gulp-sass/gulp-sass.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"gulp-sass","version":"","description":"","projectUrl":"https://github.com/dlmanning/gulp-sass","authors":[{"name":"Asana","url":"https://asana.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

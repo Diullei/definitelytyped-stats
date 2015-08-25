@@ -1,0 +1,1 @@
+{"project":"node-uuid","name":"node-uuid","path":"node-uuid/node-uuid.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"node-uuid.js","version":"","description":"","projectUrl":"https://github.com/broofa/node-uuid","authors":[{"name":"Jeff May","url":"https://github.com/jeffmay"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

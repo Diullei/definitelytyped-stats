@@ -1,0 +1,1 @@
+{"project":"drop","name":"drop","path":"drop/drop.d.ts","semver":null,"info":{"references":["../tether/tether.d.ts"],"name":"Drop v0.5.7","version":"0.5.7","description":"","projectUrl":"http://github.hubspot.com/drop","authors":[{"name":"Adi Dahiya","url":"https://github.com/adidahiya"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

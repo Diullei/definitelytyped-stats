@@ -1,0 +1,1 @@
+{"project":"orchestrator","name":"orchestrator","path":"orchestrator/orchestrator.d.ts","semver":null,"info":{"references":["../q/Q.d.ts"],"name":"Orchestrator","version":"","description":"","projectUrl":"https://github.com/orchestrator/orchestrator","authors":[{"name":"Qubo","url":"https://github.com/tkQubo"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

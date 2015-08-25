@@ -1,0 +1,1 @@
+{"project":"from","name":"from","path":"from/from.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"from v0.1.3","version":"0.1.3","description":"","projectUrl":"https://github.com/dominictarr/from","authors":[{"name":"Bart van der Schoor","url":"https://github.com/Bartvds"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

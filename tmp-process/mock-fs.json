@@ -1,0 +1,1 @@
+{"project":"mock-fs","name":"mock-fs","path":"mock-fs/mock-fs.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"mock-fs 2.5.0","version":"2.5.0","description":"","projectUrl":"https://github.com/tschaub/mock-fs","authors":[{"name":"Wim Looman","url":"https://github.com/Nemo157"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

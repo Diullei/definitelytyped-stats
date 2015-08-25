@@ -1,0 +1,1 @@
+{"project":"recaptcha","name":"recaptcha","path":"recaptcha/recaptcha.d.ts","semver":null,"info":{"references":[],"name":"Google Recaptcha","version":"","description":"","projectUrl":"https://www.google.com/recaptcha","authors":[{"name":"Brent Jenkins","url":"https://github.com/brentj73"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

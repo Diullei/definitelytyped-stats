@@ -1,0 +1,1 @@
+{"project":"vinyl-fs","name":"vinyl-fs","path":"vinyl-fs/vinyl-fs.d.ts","semver":null,"info":{"references":["../node/node.d.ts","../vinyl/vinyl.d.ts"],"name":"vinyl-fs","version":"","description":"","projectUrl":"https://github.com/wearefractal/vinyl-fs","authors":[{"name":"vvakame","url":"https://github.com/vvakame"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

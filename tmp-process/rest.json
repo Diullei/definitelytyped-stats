@@ -1,0 +1,1 @@
+{"project":"rest","name":"rest","path":"rest/rest.d.ts","semver":null,"info":{"references":["../when/when.d.ts"],"name":"rest.js v1.2.0","version":"1.2.0","description":"","projectUrl":"https://github.com/cujojs/rest","authors":[{"name":"Wim Looman","url":"https://github.com/Nemo157"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

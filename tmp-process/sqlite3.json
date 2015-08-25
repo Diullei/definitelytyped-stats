@@ -1,0 +1,1 @@
+{"project":"sqlite3","name":"sqlite3","path":"sqlite3/sqlite3.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"sqlite3 2.2.3","version":"2.2.3","description":"","projectUrl":"https://github.com/mapbox/node-sqlite3","authors":[{"name":"Nick Malaguti","url":"https://github.com/nmalaguti"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,0 +1,1 @@
+{"project":"browser-sync","name":"browser-sync","path":"browser-sync/browser-sync.d.ts","semver":null,"info":{"references":["../chokidar/chokidar.d.ts","../node/node.d.ts"],"name":"browser-sync","version":"","description":"","projectUrl":"http://www.browsersync.io","authors":[{"name":"Asana","url":"https://asana.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

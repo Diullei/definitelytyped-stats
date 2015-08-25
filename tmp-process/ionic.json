@@ -1,0 +1,1 @@
+{"project":"ionic","name":"ionic","path":"ionic/ionic.d.ts","semver":null,"info":{"references":["../angularjs/angular.d.ts"],"name":"Ionic","version":"","description":"","projectUrl":"http://ionicframework.com","authors":[{"name":"Spencer Williams","url":"https://github.com/spencerwi"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

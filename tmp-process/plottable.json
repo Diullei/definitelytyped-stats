@@ -1,0 +1,1 @@
+{"project":"plottable","name":"plottable","path":"plottable/plottable.d.ts","semver":null,"info":{"references":["../d3/d3.d.ts"],"name":"Plottable v1.4.0","version":"1.4.0","description":"","projectUrl":"http://plottablejs.org","authors":[{"name":"Plottable Team","url":"https://github.com/palantir/plottable"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

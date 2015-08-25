@@ -1,0 +1,1 @@
+{"project":"gulp-typedoc","name":"gulp-typedoc","path":"gulp-typedoc/gulp-typedoc.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"gulp-typedoc","version":"","description":"","projectUrl":"https://github.com/rogierschouten/gulp-typedoc","authors":[{"name":"Asana","url":"https://asana.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

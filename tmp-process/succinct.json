@@ -1,0 +1,1 @@
+{"project":"succinct","name":"succinct","path":"succinct/succinct.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"jQuery Succinct v1.1.0","version":"1.1.0","description":"","projectUrl":"http://mikeking.io/succinct","authors":[{"name":"Matt Brooks","url":"https://github.com/EnableSoftware"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,0 +1,1 @@
+{"project":"ftpd","name":"ftpd","path":"ftpd/ftpd.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"ftpd 0.2.11","version":"0.2.11","description":"","projectUrl":"https://github.com/sstur/nodeftpd","authors":[{"name":"Rogier Schouten","url":"https://github.com/rogierschouten"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

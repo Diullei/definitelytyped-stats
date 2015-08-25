@@ -1,0 +1,1 @@
+{"project":"sharedworker","name":"SharedWorker","path":"sharedworker/SharedWorker.d.ts","semver":null,"info":{"references":[],"name":"SharedWorker","version":"","description":"","projectUrl":"http://www.w3.org/TR/workers","authors":[{"name":"Toshiya Nakakura","url":"https://github.com/nakakura"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,0 +1,1 @@
+{"project":"twix","name":"twix","path":"twix/twix.d.ts","semver":null,"info":{"references":["../moment/moment.d.ts"],"name":"twix.js 0.6.3","version":"0.6.3","description":"","projectUrl":"https://github.com/icambron/twix.js","authors":[{"name":"j3ko","url":"https://github.com/j3ko"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

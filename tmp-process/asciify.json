@@ -1,0 +1,1 @@
+{"project":"asciify","name":"asciify","path":"asciify/asciify.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"asciify 1.3.5","version":"1.3.5","description":"","projectUrl":"https://www.npmjs.org/package/asciify","authors":[{"name":"Alan Norbauer","url":"http://alan.norbauer.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

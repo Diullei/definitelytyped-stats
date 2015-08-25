@@ -1,0 +1,1 @@
+{"project":"stylus","name":"stylus","path":"stylus/stylus.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"stylus 0.48.1","version":"0.48.1","description":"","projectUrl":"https://github.com/LearnBoost/stylus","authors":[{"name":"Maxime LUCE","url":"https://github.com/SomaticIT"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

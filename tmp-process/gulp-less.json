@@ -1,0 +1,1 @@
+{"project":"gulp-less","name":"gulp-less","path":"gulp-less/gulp-less.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"gulp-less","version":"","description":"","projectUrl":"https://github.com/plus3network/gulp-less","authors":[{"name":"Keita Kagurazaka","url":"https://github.com/k-kagurazaka"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

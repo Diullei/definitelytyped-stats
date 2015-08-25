@@ -1,0 +1,1 @@
+{"project":"cors","name":"cors","path":"cors/cors.d.ts","semver":null,"info":{"references":["../express/express.d.ts"],"name":"cors","version":"","description":"","projectUrl":"https://github.com/troygoode/node-cors","authors":[{"name":"Mihhail Lapushkin","url":"https://github.com/mihhail-lapushkin"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

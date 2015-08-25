@@ -1,0 +1,1 @@
+{"project":"select2","name":"select2","path":"select2/select2.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"Select2 3.2","version":"3.2","description":"","projectUrl":"http://ivaynberg.github.com/select2","authors":[{"name":"Boris Yankov","url":"https://github.com/borisyankov"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,0 +1,1 @@
+{"project":"del","name":"del","path":"del/del.d.ts","semver":null,"info":{"references":["../glob/glob.d.ts"],"name":"del v1.2.0","version":"1.2.0","description":"","projectUrl":"https://github.com/sindresorhus/del","authors":[{"name":"Asana","url":"https://asana.com"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

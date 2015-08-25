@@ -1,0 +1,1 @@
+{"project":"q-io","name":"Q-io","path":"q-io/Q-io.d.ts","semver":null,"info":{"references":["../node/node.d.ts","../q/Q.d.ts"],"name":"Q-io","version":"","description":"","projectUrl":"https://github.com/kriskowal/q-io","authors":[{"name":"Bart van der Schoor","url":"https://github.com/Bartvds"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

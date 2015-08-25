@@ -1,0 +1,1 @@
+{"project":"node_redis","name":"node_redis","path":"node_redis/node_redis.d.ts","semver":null,"info":{"references":[],"name":"node_redis 0.8","version":"0.8","description":"","projectUrl":"https://github.com/mranney/node_redis","authors":[{"name":"Boris Yankov","url":"https://github.com/borisyankov"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

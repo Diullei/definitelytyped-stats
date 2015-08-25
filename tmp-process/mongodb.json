@@ -1,0 +1,1 @@
+{"project":"mongodb","name":"mongodb","path":"mongodb/mongodb.d.ts","semver":null,"info":{"references":[],"name":"MongoDB","version":"","description":"","projectUrl":"https://github.com/mongodb/node-mongodb-native","authors":[{"name":"Boris Yankov","url":"https://github.com/borisyankov"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,0 +1,1 @@
+{"project":"apn","name":"apn","path":"apn/apn.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"node-apn","version":"","description":"","projectUrl":"https://github.com/argon/node-apn","authors":[{"name":"Zenorbi","url":"https://github.com/zenorbi"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

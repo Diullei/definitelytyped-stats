@@ -1,0 +1,1 @@
+{"project":"shelljs","name":"shelljs","path":"shelljs/shelljs.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"ShellJS v0.3.0","version":"0.3.0","description":"","projectUrl":"http://shelljs.org","authors":[{"name":"Niklas Mollenhauer","url":"https://github.com/nikeee"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

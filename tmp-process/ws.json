@@ -1,0 +1,1 @@
+{"project":"ws","name":"ws","path":"ws/ws.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"ws","version":"","description":"","projectUrl":"https://github.com/einaros/ws","authors":[{"name":"Paul Loyd","url":"https://github.com/loyd"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

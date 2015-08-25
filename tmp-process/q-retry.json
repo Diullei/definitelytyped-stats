@@ -1,0 +1,1 @@
+{"project":"q-retry","name":"q-retry","path":"q-retry/q-retry.d.ts","semver":null,"info":{"references":["../q/Q.d.ts"],"name":"q-retry","version":"","description":"","projectUrl":"https://github.com/vilic/q-retry","authors":[{"name":"VILIC VANE","url":"https://github.com/vilic"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

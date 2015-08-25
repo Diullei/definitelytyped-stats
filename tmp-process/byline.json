@@ -1,0 +1,1 @@
+{"project":"byline","name":"byline","path":"byline/byline.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"byline 4.2.1","version":"4.2.1","description":"","projectUrl":"https://github.com/jahewson/node-byline","authors":[{"name":"Stefan Steinhart","url":"https://github.com/reppners"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

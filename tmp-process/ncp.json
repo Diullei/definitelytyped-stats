@@ -1,0 +1,1 @@
+{"project":"ncp","name":"ncp","path":"ncp/ncp.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"ncp v0.5.1","version":"0.5.1","description":"","projectUrl":"https://github.com/AvianFlu/ncp","authors":[{"name":"Bart van der Schoor","url":"https://github.com/bartvds"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

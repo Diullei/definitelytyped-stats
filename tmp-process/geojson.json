@@ -1,0 +1,1 @@
+{"project":"geojson","name":"geojson","path":"geojson/geojson.d.ts","semver":null,"info":{"references":[],"name":"GeoJSON Format Specification","version":"","description":"","projectUrl":"http://geojson.org","authors":[{"name":"Jacob Bruun","url":"https://github.com/cobster"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

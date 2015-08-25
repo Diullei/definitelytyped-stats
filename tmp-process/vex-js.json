@@ -1,0 +1,1 @@
+{"project":"vex-js","name":"vex-js","path":"vex-js/vex-js.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"Vex v2.3.2","version":"2.3.2","description":"","projectUrl":"https://github.com/HubSpot/vex","authors":[{"name":"Greg Cohan","url":"https://github.com/gdcohan"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

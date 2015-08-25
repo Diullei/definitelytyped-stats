@@ -1,0 +1,1 @@
+{"project":"tape","name":"tape","path":"tape/tape.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"tape v2.12.3","version":"2.12.3","description":"","projectUrl":"https://github.com/substack/tape","authors":[{"name":"Bart van der Schoor","url":"https://github.com/Bartvds"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

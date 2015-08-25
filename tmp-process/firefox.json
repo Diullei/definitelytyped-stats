@@ -1,0 +1,1 @@
+{"project":"firefox","name":"firefox","path":"firefox/firefox.d.ts","semver":null,"info":{"references":[],"name":"Mozilla Web API","version":"","description":"","projectUrl":"https://developer.mozilla.org/en-US/docs/Web/API","authors":[{"name":"vvakame","url":"https://github.com/vvakame"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,0 +1,1 @@
+{"project":"noble","name":"noble","path":"noble/noble.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"noble","version":"","description":"","projectUrl":"https://github.com/sandeepmistry/noble","authors":[{"name":"Seon-Wook Park","url":"https://github.com/swook"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

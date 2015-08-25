@@ -1,0 +1,1 @@
+{"project":"gulp-dtsm","name":"gulp-dtsm","path":"gulp-dtsm/gulp-dtsm.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"gulp-dtsm 0.0.0","version":"0.0.0","description":"","projectUrl":"https://github.com/9joneg/gulp-dtsm","authors":[{"name":"Aya Morisawa","url":"https://github.com/AyaMorisawa"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

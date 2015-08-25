@@ -1,0 +1,1 @@
+{"project":"highland","name":"highland","path":"highland/highland.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"Highland 1.14.0","version":"1.14.0","description":"","projectUrl":"http://highlandjs.org","authors":[{"name":"Bart van der Schoor","url":"https://github.com/Bartvds"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

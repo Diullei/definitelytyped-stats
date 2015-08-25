@@ -1,0 +1,1 @@
+{"project":"highcharts","name":"highcharts","path":"highcharts/highcharts.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"Highcharts 4.0.4","version":"4.0.4","description":"","projectUrl":"http://www.highcharts.com","authors":[{"name":"Damiano Gambarotto","url":"http://github.com/damianog"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

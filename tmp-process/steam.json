@@ -1,0 +1,1 @@
+{"project":"steam","name":"steam","path":"steam/steam.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"steam","version":"","description":"","projectUrl":"https://github.com/seishun/node-steam","authors":[{"name":"Andrey Kurdyumov","url":"https://github.com/kant2002"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

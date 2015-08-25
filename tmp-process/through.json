@@ -1,0 +1,1 @@
+{"project":"through","name":"through","path":"through/through.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"through","version":"","description":"","projectUrl":"https://github.com/dominictarr/through","authors":[{"name":"Andrew Gaspar","url":"https://github.com/AndrewGaspar"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

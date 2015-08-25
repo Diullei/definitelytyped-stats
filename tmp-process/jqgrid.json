@@ -1,0 +1,1 @@
+{"project":"jqgrid","name":"jqgrid","path":"jqgrid/jqgrid.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts"],"name":"jQuery jqgrid Plugin 1.3","version":"1.3","description":"","projectUrl":"https://github.com/tonytomov/jqGrid","authors":[{"name":"Lokesh Peta","url":"https://github.com/lokeshpeta"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

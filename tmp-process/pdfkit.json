@@ -1,0 +1,1 @@
+{"project":"pdfkit","name":"pdfkit","path":"pdfkit/pdfkit.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"Pdfkit v0.7.1","version":"0.7.1","description":"","projectUrl":"http://pdfkit.org","authors":[{"name":"Eric Hillah","url":"https://github.com/erichillah"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

@@ -1,0 +1,1 @@
+{"project":"fs-ext","name":"fs-ext","path":"fs-ext/fs-ext.d.ts","semver":null,"info":{"references":["../node/node.d.ts"],"name":"fs-ext","version":"","description":"","projectUrl":"https://github.com/baudehlo/node-fs-ext","authors":[{"name":"Oguzhan Ergin","url":"https://github.com/OguzhanE"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

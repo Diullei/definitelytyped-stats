@@ -1,0 +1,1 @@
+{"project":"ember","name":"ember","path":"ember/ember.d.ts","semver":null,"info":{"references":["../jquery/jquery.d.ts","../handlebars/handlebars-1.0.0.d.ts"],"name":"Ember.js 1.11.3","version":"1.11.3","description":"","projectUrl":"http://emberjs.com","authors":[{"name":"Jed Mao","url":"https://github.com/jedmao"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

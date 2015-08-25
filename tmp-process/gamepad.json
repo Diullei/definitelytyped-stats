@@ -1,0 +1,1 @@
+{"project":"gamepad","name":"gamepad","path":"gamepad/gamepad.d.ts","semver":null,"info":{"references":[],"name":"Gamepad API","version":"","description":"","projectUrl":"http://www.w3.org/TR/gamepad","authors":[{"name":"Kon","url":"http://phyzkit.net"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

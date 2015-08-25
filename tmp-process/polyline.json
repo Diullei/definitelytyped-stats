@@ -1,0 +1,1 @@
+{"project":"polyline","name":"polyline","path":"polyline/polyline.d.ts","semver":null,"info":{"references":["../geojson/geojson.d.ts"],"name":"Polyline 0.1.0","version":"0.1.0","description":"","projectUrl":"https://github.com/mapbox/polyline","authors":[{"name":"Arseniy Maximov","url":"https://github.com/Kern0"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

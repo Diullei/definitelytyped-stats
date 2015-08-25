@@ -1,0 +1,1 @@
+{"project":"mapbox","name":"mapbox","path":"mapbox/mapbox.d.ts","semver":null,"info":{"references":["../leaflet/leaflet.d.ts"],"name":"Mapbox 1.6.3","version":"1.6.3","description":"","projectUrl":"https://www.mapbox.com/mapbox.js","authors":[{"name":"Maxime Fabre","url":"https://github.com/anahkiasen"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}

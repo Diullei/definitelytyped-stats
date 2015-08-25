@@ -1,0 +1,1 @@
+{"project":"swag","name":"swag","path":"swag/swag.d.ts","semver":null,"info":{"references":["../handlebars/handlebars.d.ts"],"name":"swag 0.6.1","version":"0.6.1","description":"","projectUrl":"https://github.com/elving/swag","authors":[{"name":"Shogo Iwano","url":"https://github.com/shiwano"}],"reposUrl":"https://github.com/borisyankov/DefinitelyTyped"}}
