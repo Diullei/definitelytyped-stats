@@ -48,7 +48,7 @@ function getDefinitionInfo(source: string) {
         query.parseInfo = true;
 
         return getAPI().select(query, opts).progress(function (note) {
-            console.log('-> note: ' + note.message);
+            // console.log('-> note: ' + note.message);
         });
     });
 }
