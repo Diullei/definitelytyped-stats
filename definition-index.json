@@ -2,8 +2,8 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1440532050252,
-    "count": 1100,
+    "updatedAt": 1440535788629,
+    "count": 1101,
     "content": [
         {
             "project": "amcharts",
@@ -4113,6 +4113,28 @@
                     {
                         "name": "Boltmade",
                         "url": "https://github.com/Boltmade"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "cordova-ionic",
+            "name": "cordova-ionic",
+            "path": "cordova-ionic/cordova-ionic.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "./plugins/keyboard.d.ts"
+                ],
+                "name": "Ionic Cordova plugins",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/driftyco",
+                "authors": [
+                    {
+                        "name": "Hendrik Maus",
+                        "url": "https://github.com/hendrikmaus"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
