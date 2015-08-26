@@ -5,5 +5,3 @@
 /src/*.js
 /src/*.js.map
 /.tscache
-/try-publish.sh
-/run.sh
