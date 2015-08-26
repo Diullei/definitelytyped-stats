@@ -2,7 +2,7 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1440535788632,
+    "updatedAt": 1440603804014,
     "count": 1101,
     "content": [
         {
@@ -5043,6 +5043,10 @@
                     {
                         "name": "Dave Taylor",
                         "url": "http://davetayls.me"
+                    },
+                    {
+                        "name": "Samira Bazuzi",
+                        "url": "https://github.com/bazuzi"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
