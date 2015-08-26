@@ -5,4 +5,5 @@
 /src/*.js
 /src/*.js.map
 /.tscache
-# /definition-index.json
+/try-publish.sh
+/run.sh
