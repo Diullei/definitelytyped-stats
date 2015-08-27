@@ -2,8 +2,8 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1440687595831,
-    "count": 1100,
+    "updatedAt": 1440690249688,
+    "count": 1102,
     "content": [
         {
             "project": "amcharts",
@@ -8765,6 +8765,31 @@
             }
         },
         {
+            "project": "gulp-util",
+            "name": "gulp-util",
+            "path": "gulp-util/gulp-util.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts",
+                    "../vinyl/vinyl.d.ts",
+                    "../chalk/chalk.d.ts",
+                    "../through2/through2.d.ts"
+                ],
+                "name": "gulp-util v3.0.x",
+                "version": "3.0",
+                "description": "",
+                "projectUrl": "https://github.com/gulpjs/gulp-util",
+                "authors": [
+                    {
+                        "name": "jedmao",
+                        "url": "https://github.com/jedmao"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "gulp-watch",
             "name": "gulp-watch",
             "path": "gulp-watch/gulp-watch.d.ts",
@@ -9055,6 +9080,28 @@
                     {
                         "name": "Pavel Zika",
                         "url": "https://github.com/PavelPZ"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "highcharts",
+            "name": "highcharts",
+            "path": "highcharts/highcharts.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../jquery/jquery.d.ts"
+                ],
+                "name": "Highcharts 4.0.4",
+                "version": "4.0.4",
+                "description": "",
+                "projectUrl": "http://www.highcharts.com",
+                "authors": [
+                    {
+                        "name": "Damiano Gambarotto",
+                        "url": "http://github.com/damianog"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
