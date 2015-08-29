@@ -2,8 +2,8 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1440715708787,
-    "count": 1102,
+    "updatedAt": 1440859362548,
+    "count": 1100,
     "content": [
         {
             "project": "amcharts",
@@ -3591,8 +3591,8 @@
             "semver": null,
             "info": {
                 "references": [],
-                "name": "chui v3.9.0",
-                "version": "3.9.0",
+                "name": "chui v3.9.1",
+                "version": "3.9.1",
                 "description": "",
                 "projectUrl": "https://github.com/chocolatechipui/chocolatechip-ui",
                 "authors": [
@@ -3741,26 +3741,6 @@
                     {
                         "name": "Qubo",
                         "url": "https://github.com/tkQubo"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "colorbrewer",
-            "name": "colorbrewer",
-            "path": "colorbrewer/colorbrewer.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "colorbrewer v1.0.0",
-                "version": "1.0.0",
-                "description": "",
-                "projectUrl": "https://github.com/jeanlauliac/colorbrewer",
-                "authors": [
-                    {
-                        "name": "Matt Traynham",
-                        "url": "https://github.com/mtraynham"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -9372,26 +9352,6 @@
                     {
                         "name": "Maxime LUCE",
                         "url": "https://github.com/SomaticIT"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "i18next",
-            "name": "i18next",
-            "path": "i18next/i18next.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "i18next v1.5.10",
-                "version": "1.5.10",
-                "description": "",
-                "projectUrl": "http://i18next.com",
-                "authors": [
-                    {
-                        "name": "Maarten Docter",
-                        "url": "https://github.com/mdocter"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
