@@ -2,8 +2,8 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1440859362548,
-    "count": 1100,
+    "updatedAt": 1440990085240,
+    "count": 1104,
     "content": [
         {
             "project": "amcharts",
@@ -1320,6 +1320,26 @@
                     {
                         "name": "Thodoris Greasidis",
                         "url": "https://github.com/thgreasi"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "angular-ui-tree",
+            "name": "angular-ui-tree",
+            "path": "angular-ui-tree/angular-ui-tree.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "angular-ui-tree v2.8.0",
+                "version": "2.8.0",
+                "description": "",
+                "projectUrl": "https://github.com/angular-ui-tree/angular-ui-tree",
+                "authors": [
+                    {
+                        "name": "Calvin Fernandez",
+                        "url": "https://github.com/CalvinFernandez"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -3741,6 +3761,26 @@
                     {
                         "name": "Qubo",
                         "url": "https://github.com/tkQubo"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "colorbrewer",
+            "name": "colorbrewer",
+            "path": "colorbrewer/colorbrewer.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "colorbrewer v1.0.0",
+                "version": "1.0.0",
+                "description": "",
+                "projectUrl": "https://github.com/jeanlauliac/colorbrewer",
+                "authors": [
+                    {
+                        "name": "Matt Traynham",
+                        "url": "https://github.com/mtraynham"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -9352,6 +9392,26 @@
                     {
                         "name": "Maxime LUCE",
                         "url": "https://github.com/SomaticIT"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "i18next",
+            "name": "i18next",
+            "path": "i18next/i18next.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "i18next v1.5.10",
+                "version": "1.5.10",
+                "description": "",
+                "projectUrl": "http://i18next.com",
+                "authors": [
+                    {
+                        "name": "Maarten Docter",
+                        "url": "https://github.com/mdocter"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -19025,8 +19085,8 @@
                 "references": [
                     "rx-lite.d.ts"
                 ],
-                "name": "RxJS v2.2.28",
-                "version": "2.2.28",
+                "name": "RxJS v2.5.3",
+                "version": "2.5.3",
                 "description": "",
                 "projectUrl": "http://rx.codeplex.com",
                 "authors": [
@@ -21977,6 +22037,28 @@
                     {
                         "name": "Ben Tesser",
                         "url": "https://github.com/btesser"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "ui-router-extras",
+            "name": "ui-router-extras",
+            "path": "ui-router-extras/ui-router-extras.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../angular-ui-router/angular-ui-router.d.ts"
+                ],
+                "name": "UI-Router Extras 0.0.14+ (ct.ui.router.extras module)",
+                "version": "0.0.14",
+                "description": "",
+                "projectUrl": "https://github.com/christopherthielen/ui-router-extras",
+                "authors": [
+                    {
+                        "name": "Michael Putters",
+                        "url": "https://github.com/mputters"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
