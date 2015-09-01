@@ -2,8 +2,8 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1441028741828,
-    "count": 1097,
+    "updatedAt": 1441088761644,
+    "count": 1108,
     "content": [
         {
             "project": "amcharts",
@@ -140,6 +140,28 @@
                     {
                         "name": "David Sichau",
                         "url": "https://github.com/DavidSichau"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "JSONStream",
+            "name": "JSONStream",
+            "path": "JSONStream/JSONStream.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "JSONStream v0.8.0",
+                "version": "0.8.0",
+                "description": "",
+                "projectUrl": "http://github.com/dominictarr/JSONStream",
+                "authors": [
+                    {
+                        "name": "Bart van der Schoor",
+                        "url": "https://github.com/Bartvds"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -1372,8 +1394,8 @@
             "semver": null,
             "info": {
                 "references": [],
-                "name": "Angular v2.0.0-alpha.35",
-                "version": "2.0.0-alpha.35",
+                "name": "Angular v2.0.0-alpha.36",
+                "version": "2.0.0-alpha.36",
                 "description": "",
                 "projectUrl": "http://angular.io",
                 "authors": [
@@ -2062,6 +2084,28 @@
                     {
                         "name": "midknight41",
                         "url": "https://github.com/midknight41"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "axios",
+            "name": "axios",
+            "path": "axios/axios.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../es6-promise/es6-promise.d.ts"
+                ],
+                "name": "axios 0.5.2",
+                "version": "0.5.2",
+                "description": "",
+                "projectUrl": "https://github.com/mzabriskie/axios",
+                "authors": [
+                    {
+                        "name": "Marcel Buesing",
+                        "url": "https://github.com/marcelbuesing"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -4539,6 +4583,30 @@
             }
         },
         {
+            "project": "d3",
+            "name": "d3",
+            "path": "d3/d3.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "d3JS",
+                "version": "",
+                "description": "",
+                "projectUrl": "http://d3js.org",
+                "authors": [
+                    {
+                        "name": "Alex Ford",
+                        "url": "https://github.com/gustavderdrache"
+                    },
+                    {
+                        "name": "Boris Yankov",
+                        "url": "https://github.com/borisyankov"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "dagre-d3",
             "name": "dagre-d3",
             "path": "dagre-d3/dagre-d3.d.ts",
@@ -6952,6 +7020,28 @@
             }
         },
         {
+            "project": "freedom",
+            "name": "freedom",
+            "path": "freedom/freedom.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../es6-promise/es6-promise.d.ts"
+                ],
+                "name": "freedom v0.6.26",
+                "version": "0.6.26",
+                "description": "",
+                "projectUrl": "https://github.com/freedomjs/freedom",
+                "authors": [
+                    {
+                        "name": "Jonathan Pevarnek",
+                        "url": "https://github.com/jpevarnek"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "from",
             "name": "from",
             "path": "from/from.d.ts",
@@ -7654,6 +7744,26 @@
             }
         },
         {
+            "project": "google-drive-realtime-api",
+            "name": "google-drive-realtime-api",
+            "path": "google-drive-realtime-api/google-drive-realtime-api.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "Google Realtime API",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://developers.google.com/google-apps/realtime",
+                "authors": [
+                    {
+                        "name": "Dustin Wehr",
+                        "url": "http://cs.toronto.edu/~wehr"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "google.geolocation",
             "name": "google.geolocation",
             "path": "google.geolocation/google.geolocation.d.ts",
@@ -8022,6 +8132,28 @@
             }
         },
         {
+            "project": "gulp-espower",
+            "name": "gulp-espower",
+            "path": "gulp-espower/gulp-espower.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "gulp-espower",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/power-assert-js/gulp-espower",
+                "authors": [
+                    {
+                        "name": "Qubo",
+                        "url": "https://github.com/tkQubo"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "gulp-flatten",
             "name": "gulp-flatten",
             "path": "gulp-flatten/gulp-flatten.d.ts",
@@ -8110,6 +8242,28 @@
                     {
                         "name": "Keita Kagurazaka",
                         "url": "https://github.com/k-kagurazaka"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "gulp-istanbul",
+            "name": "gulp-istanbul",
+            "path": "gulp-istanbul/gulp-istanbul-0.8.1.d.ts",
+            "semver": "0.8.1",
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "gulp-istanbul v0.8.1",
+                "version": "0.8.1",
+                "description": "",
+                "projectUrl": "https://github.com/SBoudrias/gulp-istanbul",
+                "authors": [
+                    {
+                        "name": "Asana",
+                        "url": "https://asana.com"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -8728,7 +8882,8 @@
             "semver": null,
             "info": {
                 "references": [
-                    "../node/node.d.ts"
+                    "../node/node.d.ts",
+                    "../orchestrator/orchestrator.d.ts"
                 ],
                 "name": "Gulp v3.8.x",
                 "version": "3.8",
@@ -8990,6 +9145,28 @@
                     {
                         "name": "Pavel Zika",
                         "url": "https://github.com/PavelPZ"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "highcharts-ng",
+            "name": "highcharts-ng",
+            "path": "highcharts-ng/highcharts-ng.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../highcharts/highcharts.d.ts"
+                ],
+                "name": "highcharts-ng 0.0.8",
+                "version": "0.0.8",
+                "description": "",
+                "projectUrl": "https://github.com/pablojim/highcharts-ng",
+                "authors": [
+                    {
+                        "name": "Scott Hatcher",
+                        "url": "https://github.com/scatcher"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -16440,6 +16617,26 @@
             }
         },
         {
+            "project": "offline-js",
+            "name": "offline-js",
+            "path": "offline-js/offline-js.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "Offline 0.7.14",
+                "version": "0.7.14",
+                "description": "",
+                "projectUrl": "https://github.com/HubSpot/offline",
+                "authors": [
+                    {
+                        "name": "Chris Wrench",
+                        "url": "https://github.com/cgwrench"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "on-finished",
             "name": "on-finished",
             "path": "on-finished/on-finished.d.ts",
@@ -20565,6 +20762,13 @@
                 "projectUrl": "https://stripe.com",
                 "authors": [
                     {
+                        "name": "Andy Hawkins",
+                        "url": "https://github.com/a904guy"
+                    },
+                    {
+                        "name": "http"
+                    },
+                    {
                         "name": "Eric J. Smith",
                         "url": "https://github.com/ejsmith"
                     }
@@ -22839,6 +23043,26 @@
             }
         },
         {
+            "project": "webspeechapi",
+            "name": "webspeechapi",
+            "path": "webspeechapi/webspeechapi.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "Web Speech API",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://dvcs.w3.org/hg/speech-api/raw-file/tip/speechapi.html",
+                "authors": [
+                    {
+                        "name": "SaschaNaz",
+                        "url": "https://github.com/saschanaz"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "websql",
             "name": "websql",
             "path": "websql/websql.d.ts",
@@ -22942,6 +23166,28 @@
                     {
                         "name": "vvakame",
                         "url": "https://github.com/vvakame"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "windows-service",
+            "name": "windows-service",
+            "path": "windows-service/windows-service.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "windows-service 1.0.4",
+                "version": "1.0.4",
+                "description": "",
+                "projectUrl": "https://bitbucket.org/stephenwvickers/node-windows-service",
+                "authors": [
+                    {
+                        "name": "Rogier Schouten",
+                        "url": "https://github.com/rogierschouten"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -23164,30 +23410,6 @@
             }
         },
         {
-            "project": "xml2js",
-            "name": "xml2js",
-            "path": "xml2js/xml2js.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "node-xml2js",
-                "version": "",
-                "description": "",
-                "projectUrl": "https://github.com/Leonidas-from-XIV/node-xml2js",
-                "authors": [
-                    {
-                        "name": "Michel Salib",
-                        "url": "https://github.com/michelsalib"
-                    },
-                    {
-                        "name": "Jason McNeil",
-                        "url": "https://github.com/jasonrm"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
             "project": "xmlbuilder",
             "name": "xmlbuilder",
             "path": "xmlbuilder/xmlbuilder.d.ts",
@@ -23306,6 +23528,26 @@
                     {
                         "name": "Tim Jonischkat",
                         "url": "http://www.tim-jonischkat.de"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "yargs",
+            "name": "yargs",
+            "path": "yargs/yargs.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "yargs",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/chevex/yargs",
+                "authors": [
+                    {
+                        "name": "Martin Poelstra",
+                        "url": "https://github.com/poelstra"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
