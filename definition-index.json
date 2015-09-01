@@ -2,8 +2,8 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1441088761644,
-    "count": 1108,
+    "updatedAt": 1441116108507,
+    "count": 1110,
     "content": [
         {
             "project": "amcharts",
@@ -6607,6 +6607,26 @@
                     {
                         "name": "Shinnosuke Watanabe",
                         "url": "https://github.com/shinnn"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "favico.js",
+            "name": "favico.js",
+            "path": "favico.js/favico.js.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "favico.js",
+                "version": "",
+                "description": "",
+                "projectUrl": "http://lab.ejci.net/favico.js",
+                "authors": [
+                    {
+                        "name": "Yu Matsushita",
+                        "url": "https://github.com/drowse314-dev-ymat"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -23404,6 +23424,30 @@
                     {
                         "name": "themauveavenger",
                         "url": "https://github.com/themauveavenger"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "xml2js",
+            "name": "xml2js",
+            "path": "xml2js/xml2js.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "node-xml2js",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/Leonidas-from-XIV/node-xml2js",
+                "authors": [
+                    {
+                        "name": "Michel Salib",
+                        "url": "https://github.com/michelsalib"
+                    },
+                    {
+                        "name": "Jason McNeil",
+                        "url": "https://github.com/jasonrm"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
