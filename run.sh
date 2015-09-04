@@ -1,4 +1,7 @@
-sudo npm install
+git fetch --all
+git pull --all
+
+# sudo npm install
 
 grunt
 
