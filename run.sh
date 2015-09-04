@@ -5,7 +5,7 @@ grunt
 rm -rf tmp-process
 mkdir tmp-process
 
-p1=bb4ef6755851f && p2=9e97e89932c5a && p3=8f46a3d85e0a8c && echo {\"token\":\"$p1$p2$p3\"} > .tsdrc
+p1=ed39d546e8c8f && p2=7b7ef6ffd76d && p3=23409d3eaa7dbab && echo {\"token\":\"$p1$p2$p3\"} > .tsdrc
 
 for file in ./node_modules/DefinitelyTyped/*; do
     echo ${file};
