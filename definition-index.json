@@ -2,8 +2,13 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
+<<<<<<< HEAD
     "updatedAt": 1441375221967,
     "count": 1088,
+=======
+    "updatedAt": 1441164171342,
+    "count": 1110,
+>>>>>>> 009a58c1fa4b6703a8e7bc1d208908072e16c3f0
     "content": [
         {
             "project": "amcharts",
@@ -7029,6 +7034,31 @@
             "project": "freedom",
             "name": "freedom",
             "path": "freedom/freedom.d.ts",
+<<<<<<< HEAD
+=======
+            "semver": null,
+            "info": {
+                "references": [
+                    "../es6-promise/es6-promise.d.ts"
+                ],
+                "name": "freedom v0.6.26",
+                "version": "0.6.26",
+                "description": "",
+                "projectUrl": "https://github.com/freedomjs/freedom",
+                "authors": [
+                    {
+                        "name": "Jonathan Pevarnek",
+                        "url": "https://github.com/jpevarnek"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "from",
+            "name": "from",
+            "path": "from/from.d.ts",
+>>>>>>> 009a58c1fa4b6703a8e7bc1d208908072e16c3f0
             "semver": null,
             "info": {
                 "references": [
@@ -20650,6 +20680,310 @@
             }
         },
         {
+<<<<<<< HEAD
+=======
+            "project": "stream-series",
+            "name": "stream-series",
+            "path": "stream-series/stream-series.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "stream-series",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/rschmukler/stream-series",
+                "authors": [
+                    {
+                        "name": "Keita Kagurazaka",
+                        "url": "https://github.com/k-kagurazaka"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "stream-to-array",
+            "name": "stream-to-array",
+            "path": "stream-to-array/stream-to-array.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "stream-to-array",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/stream-utils/stream-to-array",
+                "authors": [
+                    {
+                        "name": "Bart van der Schoor",
+                        "url": "https://github.com/Bartvds"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "streamjs",
+            "name": "streamjs",
+            "path": "streamjs/streamjs.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "streamjs 1.5.0",
+                "version": "1.5.0",
+                "description": "",
+                "projectUrl": "http://winterbe.github.io/streamjs",
+                "authors": [
+                    {
+                        "name": "Bence Eros",
+                        "url": "https://github.com/erosb"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "string_score",
+            "name": "string_score",
+            "path": "string_score/string_score.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "string_score 0.1.22",
+                "version": "0.1.22",
+                "description": "",
+                "projectUrl": "https://github.com/joshaven/string_score",
+                "authors": [
+                    {
+                        "name": "Marcin Porębski",
+                        "url": "https://github.com/marcinporebski"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "stripe-checkout",
+            "name": "stripe-checkout",
+            "path": "stripe-checkout/stripe-checkout.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../stripe/stripe.d.ts"
+                ],
+                "name": "Stripe Checkout",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://stripe.com/checkout",
+                "authors": [
+                    {
+                        "name": "Chris Wrench",
+                        "url": "https://github.com/cgwrench"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "stripe",
+            "name": "stripe",
+            "path": "stripe/stripe.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "stripe",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://stripe.com",
+                "authors": [
+                    {
+                        "name": "Andy Hawkins",
+                        "url": "https://github.com/a904guy"
+                    },
+                    {
+                        "name": "http"
+                    },
+                    {
+                        "name": "Eric J. Smith",
+                        "url": "https://github.com/ejsmith"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "strophe",
+            "name": "strophe",
+            "path": "strophe/strophe.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "Strophe.js v1.2.0",
+                "version": "1.2.0",
+                "description": "",
+                "projectUrl": "http://strophe.im/strophejs",
+                "authors": [
+                    {
+                        "name": "David Deutsch",
+                        "url": "https://github.com/DavidKDeutsch"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "stylus",
+            "name": "stylus",
+            "path": "stylus/stylus.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "stylus 0.48.1",
+                "version": "0.48.1",
+                "description": "",
+                "projectUrl": "https://github.com/LearnBoost/stylus",
+                "authors": [
+                    {
+                        "name": "Maxime LUCE",
+                        "url": "https://github.com/SomaticIT"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "succinct",
+            "name": "succinct",
+            "path": "succinct/succinct.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../jquery/jquery.d.ts"
+                ],
+                "name": "jQuery Succinct v1.1.0",
+                "version": "1.1.0",
+                "description": "",
+                "projectUrl": "http://mikeking.io/succinct",
+                "authors": [
+                    {
+                        "name": "Matt Brooks",
+                        "url": "https://github.com/EnableSoftware"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "sugar",
+            "name": "sugar",
+            "path": "sugar/sugar.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "Sugar 1.3.9",
+                "version": "1.3.9",
+                "description": "",
+                "projectUrl": "http://sugarjs.com",
+                "authors": [
+                    {
+                        "name": "Josh Baldwin",
+                        "url": "https://github.com/jbaldwin"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "superagent",
+            "name": "superagent",
+            "path": "superagent/superagent.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "SuperAgent 0.15.4",
+                "version": "0.15.4",
+                "description": "",
+                "projectUrl": "https://github.com/visionmedia/superagent",
+                "authors": [
+                    {
+                        "name": "Alex Varju",
+                        "url": "https://github.com/varju"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "supertest",
+            "name": "supertest",
+            "path": "supertest/supertest.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../superagent/superagent.d.ts"
+                ],
+                "name": "SuperTest 0.14.0",
+                "version": "0.14.0",
+                "description": "",
+                "projectUrl": "https://github.com/visionmedia/supertest",
+                "authors": [
+                    {
+                        "name": "Alex Varju",
+                        "url": "https://github.com/varju"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "svg-pan-zoom",
+            "name": "svg-pan-zoom",
+            "path": "svg-pan-zoom/svg-pan-zoom.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "svg-pan-zoom v2.3.9",
+                "version": "2.3.9",
+                "description": "",
+                "projectUrl": "https://github.com/ariutta/svg-pan-zoom",
+                "authors": [
+                    {
+                        "name": "Chintan Shah",
+                        "url": "https://github.com/Promact"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "svg2png",
+            "name": "svg2png",
+            "path": "svg2png/svg2png.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "svg2png node package",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/domenic/svg2png",
+                "authors": [
+                    {
+                        "name": "hans windhoff",
+                        "url": "https://github.com/hansrwindhoff"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+>>>>>>> 009a58c1fa4b6703a8e7bc1d208908072e16c3f0
             "project": "svgjs.draggable",
             "name": "svgjs.draggable",
             "path": "svgjs.draggable/svgjs.draggable.d.ts",
