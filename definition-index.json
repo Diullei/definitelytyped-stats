@@ -2,8 +2,8 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1441387151846,
-    "count": 1109,
+    "updatedAt": 1441391183229,
+    "count": 1110,
     "content": [
         {
             "project": "amcharts",
@@ -20493,6 +20493,26 @@
                     {
                         "name": "Exceptionless",
                         "url": "https://github.com/exceptionless"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "stampit",
+            "name": "stampit",
+            "path": "stampit/stampit.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "stampit 2.1",
+                "version": "2.1",
+                "description": "",
+                "projectUrl": "https://github.com/stampit-org/stampit",
+                "authors": [
+                    {
+                        "name": "Vasyl Boroviak",
+                        "url": "https://github.com/koresar"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
