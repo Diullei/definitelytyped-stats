@@ -2,8 +2,8 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1440990085240,
-    "count": 1104,
+    "updatedAt": 1441375221967,
+    "count": 1088,
     "content": [
         {
             "project": "amcharts",
@@ -794,6 +794,28 @@
             }
         },
         {
+            "project": "angular-gettext",
+            "name": "angular-gettext",
+            "path": "angular-gettext/angular-gettext.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../angularjs/angular.d.ts"
+                ],
+                "name": "angular-gettext v2.1.0",
+                "version": "2.1.0",
+                "description": "",
+                "projectUrl": "https://angular-gettext.rocketeer.be",
+                "authors": [
+                    {
+                        "name": "Ákos Lukács",
+                        "url": "https://github.com/AkosLukacs"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "angular-growl-v2",
             "name": "angular-growl-v2",
             "path": "angular-growl-v2/angular-growl-v2.d.ts",
@@ -1394,8 +1416,8 @@
             "semver": null,
             "info": {
                 "references": [],
-                "name": "Angular v2.0.0-alpha.35",
-                "version": "2.0.0-alpha.35",
+                "name": "Angular v2.0.0-alpha.36",
+                "version": "2.0.0-alpha.36",
                 "description": "",
                 "projectUrl": "http://angular.io",
                 "authors": [
@@ -3523,8 +3545,8 @@
             "semver": null,
             "info": {
                 "references": [],
-                "name": "chocolatechip v4.0.3",
-                "version": "4.0.3",
+                "name": "chocolatechip v4.0.4",
+                "version": "4.0.4",
                 "description": "",
                 "projectUrl": "https://github.com/chocolatechipui/ChocolateChipJS",
                 "authors": [
@@ -4073,26 +4095,6 @@
                     {
                         "name": "Andrew Gaspar",
                         "url": "https://github.com/AndrewGaspar"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "convict",
-            "name": "convict",
-            "path": "convict/convict.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "node-convict v0.6.0",
-                "version": "0.6.0",
-                "description": "",
-                "projectUrl": "https://github.com/mozilla/node-convict",
-                "authors": [
-                    {
-                        "name": "Wim Looman",
-                        "url": "https://github.com/Nemo157"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -4892,26 +4894,6 @@
             }
         },
         {
-            "project": "dhtmlxscheduler",
-            "name": "dhtmlxscheduler",
-            "path": "dhtmlxscheduler/dhtmlxscheduler.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "dhtmlxScheduler 4.0",
-                "version": "4.0",
-                "description": "",
-                "projectUrl": "http://dhtmlx.com/docs/products/dhtmlxScheduler",
-                "authors": [
-                    {
-                        "name": "Maksim Kozhukh",
-                        "url": "http://github.com/mkozhukh"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
             "project": "di-lite",
             "name": "di-lite",
             "path": "di-lite/di-lite.d.ts",
@@ -5304,6 +5286,10 @@
                     },
                     {
                         "name": "http"
+                    },
+                    {
+                        "name": "Vasya Aksyonov",
+                        "url": "https://github.com/outring"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -6613,6 +6599,26 @@
             }
         },
         {
+            "project": "favico.js",
+            "name": "favico.js",
+            "path": "favico.js/favico.js.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "favico.js",
+                "version": "",
+                "description": "",
+                "projectUrl": "http://lab.ejci.net/favico.js",
+                "authors": [
+                    {
+                        "name": "Yu Matsushita",
+                        "url": "https://github.com/drowse314-dev-ymat"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "fbsdk",
             "name": "fbsdk",
             "path": "fbsdk/fbsdk.d.ts",
@@ -7020,22 +7026,22 @@
             }
         },
         {
-            "project": "from",
-            "name": "from",
-            "path": "from/from.d.ts",
+            "project": "freedom",
+            "name": "freedom",
+            "path": "freedom/freedom.d.ts",
             "semver": null,
             "info": {
                 "references": [
-                    "../node/node.d.ts"
+                    "../es6-promise/es6-promise.d.ts"
                 ],
-                "name": "from v0.1.3",
-                "version": "0.1.3",
+                "name": "freedom v0.6.26",
+                "version": "0.6.26",
                 "description": "",
-                "projectUrl": "https://github.com/dominictarr/from",
+                "projectUrl": "https://github.com/freedomjs/freedom",
                 "authors": [
                     {
-                        "name": "Bart van der Schoor",
-                        "url": "https://github.com/Bartvds"
+                        "name": "Jonathan Pevarnek",
+                        "url": "https://github.com/jpevarnek"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -8110,6 +8116,28 @@
             }
         },
         {
+            "project": "gulp-espower",
+            "name": "gulp-espower",
+            "path": "gulp-espower/gulp-espower.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "gulp-espower",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/power-assert-js/gulp-espower",
+                "authors": [
+                    {
+                        "name": "Qubo",
+                        "url": "https://github.com/tkQubo"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "gulp-flatten",
             "name": "gulp-flatten",
             "path": "gulp-flatten/gulp-flatten.d.ts",
@@ -8220,28 +8248,6 @@
                     {
                         "name": "Asana",
                         "url": "https://asana.com"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "gulp-jasmine-browser",
-            "name": "gulp-jasmine-browser",
-            "path": "gulp-jasmine-browser/gulp-jasmine-browser.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../node/node.d.ts"
-                ],
-                "name": "gulp-jasmine-browser v0.1.4",
-                "version": "0.1.4",
-                "description": "",
-                "projectUrl": "https://github.com/jasmine/gulp-jasmine-browser",
-                "authors": [
-                    {
-                        "name": "Tanguy Krotoff",
-                        "url": "https://github.com/tkrotoff"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -8838,7 +8844,8 @@
             "semver": null,
             "info": {
                 "references": [
-                    "../node/node.d.ts"
+                    "../node/node.d.ts",
+                    "../orchestrator/orchestrator.d.ts"
                 ],
                 "name": "Gulp v3.8.x",
                 "version": "3.8",
@@ -9106,6 +9113,28 @@
             }
         },
         {
+            "project": "highcharts-ng",
+            "name": "highcharts-ng",
+            "path": "highcharts-ng/highcharts-ng.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../highcharts/highcharts.d.ts"
+                ],
+                "name": "highcharts-ng 0.0.8",
+                "version": "0.0.8",
+                "description": "",
+                "projectUrl": "https://github.com/pablojim/highcharts-ng",
+                "authors": [
+                    {
+                        "name": "Scott Hatcher",
+                        "url": "https://github.com/scatcher"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "highcharts",
             "name": "highcharts",
             "path": "highcharts/highcharts.d.ts",
@@ -9330,6 +9359,26 @@
                     {
                         "name": "MIZUNE Pine",
                         "url": "https://github.com/pine613"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "httperr",
+            "name": "httperr",
+            "path": "httperr/httperr.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "httperr v1.0.0",
+                "version": "1.0.0",
+                "description": "",
+                "projectUrl": "https://github.com/pluma/httperr",
+                "authors": [
+                    {
+                        "name": "Troy Gerwien",
+                        "url": "https://github.com/yortus"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -10426,6 +10475,28 @@
                     {
                         "name": "Nathan Pitman",
                         "url": "https://github.com/Seltzer"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "jquery-urlparam",
+            "name": "jquery-urlparam",
+            "path": "jquery-urlparam/jquery-urlparam.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../jquery/jquery.d.ts"
+                ],
+                "name": "jquery-urlparam",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://gist.github.com/stpettersens/e1f4478f299b6f4905c1",
+                "authors": [
+                    {
+                        "name": "Sam Saint-Pettersen",
+                        "url": "https://github.com/stpettersens"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -12094,26 +12165,6 @@
             }
         },
         {
-            "project": "js-signals",
-            "name": "js-signals",
-            "path": "js-signals/js-signals.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "JS-Signals",
-                "version": "",
-                "description": "",
-                "projectUrl": "http://millermedeiros.github.io/js-signals",
-                "authors": [
-                    {
-                        "name": "Diullei Gomes",
-                        "url": "https://github.com/diullei"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
             "project": "js-url",
             "name": "js-url",
             "path": "js-url/js-url.d.ts",
@@ -12638,28 +12689,6 @@
                     {
                         "name": "Daniel Imrie-Situnayake",
                         "url": "https://github.com/dansitu"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "karma-jasmine",
-            "name": "karma-jasmine",
-            "path": "karma-jasmine/karma-jasmine.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../jasmine/jasmine.d.ts"
-                ],
-                "name": "karma-jasmine plugin",
-                "version": "",
-                "description": "",
-                "projectUrl": "https://github.com/karma-runner/karma-jasmine",
-                "authors": [
-                    {
-                        "name": "Michel Salib",
-                        "url": "https://github.com/michelsalib"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -15502,6 +15531,28 @@
             }
         },
         {
+            "project": "ng-dialog",
+            "name": "ng-dialog",
+            "path": "ng-dialog/ng-dialog.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../angularjs/angular.d.ts"
+                ],
+                "name": "ngDialog",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/likeastore/ngDialog",
+                "authors": [
+                    {
+                        "name": "Stephen Lautier",
+                        "url": "https://github.com/stephenlautier"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "ng-file-upload",
             "name": "ng-file-upload",
             "path": "ng-file-upload/ng-file-upload.d.ts",
@@ -15889,7 +15940,7 @@
             "semver": null,
             "info": {
                 "references": [
-                    "../mysql/mysql.d.ts",
+                    "./../mysql/mysql.d.ts",
                     "./../bluebird/bluebird.d.ts"
                 ],
                 "name": "node-mysql-wrapper",
@@ -16550,6 +16601,26 @@
             }
         },
         {
+            "project": "offline-js",
+            "name": "offline-js",
+            "path": "offline-js/offline-js.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "Offline 0.7.14",
+                "version": "0.7.14",
+                "description": "",
+                "projectUrl": "https://github.com/HubSpot/offline",
+                "authors": [
+                    {
+                        "name": "Chris Wrench",
+                        "url": "https://github.com/cgwrench"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "on-finished",
             "name": "on-finished",
             "path": "on-finished/on-finished.d.ts",
@@ -16710,6 +16781,26 @@
                     {
                         "name": "Qubo",
                         "url": "https://github.com/tkQubo"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "os-locale",
+            "name": "os-locale",
+            "path": "os-locale/os-locale.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "os-locale 1.2.1",
+                "version": "1.2.1",
+                "description": "",
+                "projectUrl": "https://github.com/sindresorhus/os-locale",
+                "authors": [
+                    {
+                        "name": "Aya Morisawa",
+                        "url": "https://github.com/AyaMorisawa"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -17720,8 +17811,8 @@
                 "references": [
                     "../webcomponents.js/webcomponents.js.d.ts"
                 ],
-                "name": "polymer v1.0",
-                "version": "1.0",
+                "name": "polymer v1.1.2",
+                "version": "1.1.2",
                 "description": "",
                 "projectUrl": "https://github.com/Polymer/polymer",
                 "authors": [
@@ -19893,6 +19984,26 @@
             }
         },
         {
+            "project": "ski",
+            "name": "ski",
+            "path": "ski/ski.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "ski 1.1.0",
+                "version": "1.1.0",
+                "description": "",
+                "projectUrl": "https://github.com/jden/ski",
+                "authors": [
+                    {
+                        "name": "Aya Morisawa",
+                        "url": "https://github.com/AyaMorisawa"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "skyway",
             "name": "skyway",
             "path": "skyway/skyway.d.ts",
@@ -20306,6 +20417,28 @@
             }
         },
         {
+            "project": "ssh2",
+            "name": "ssh2",
+            "path": "ssh2/ssh2.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "ssh2",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/mscdex/ssh2",
+                "authors": [
+                    {
+                        "name": "Qubo",
+                        "url": "https://github.com/tkQubo"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "stack-mapper",
             "name": "stack-mapper",
             "path": "stack-mapper/stack-mapper.d.ts",
@@ -20320,26 +20453,6 @@
                     {
                         "name": "Rogier Schouten",
                         "url": "https://github.com/rogierschouten"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "stack-trace",
-            "name": "stack-trace",
-            "path": "stack-trace/stack-trace.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "node-stack-trace",
-                "version": "",
-                "description": "",
-                "projectUrl": "https://github.com/felixge/node-stack-trace",
-                "authors": [
-                    {
-                        "name": "Exceptionless",
-                        "url": "https://github.com/exceptionless"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -20370,14 +20483,14 @@
         {
             "project": "stampit",
             "name": "stampit",
-            "path": "stampit/stampit-1.2.0.d.ts",
-            "semver": "1.2.0",
+            "path": "stampit/stampit.d.ts",
+            "semver": null,
             "info": {
                 "references": [],
-                "name": "stampit",
-                "version": "",
+                "name": "stampit 2.1",
+                "version": "2.1",
                 "description": "",
-                "projectUrl": "https://github.com/ericelliott/stampit",
+                "projectUrl": "https://github.com/stampit-org/stampit",
                 "authors": [
                     {
                         "name": "Vasyl Boroviak",
@@ -20537,300 +20650,6 @@
             }
         },
         {
-            "project": "stream-series",
-            "name": "stream-series",
-            "path": "stream-series/stream-series.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../node/node.d.ts"
-                ],
-                "name": "stream-series",
-                "version": "",
-                "description": "",
-                "projectUrl": "https://github.com/rschmukler/stream-series",
-                "authors": [
-                    {
-                        "name": "Keita Kagurazaka",
-                        "url": "https://github.com/k-kagurazaka"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "stream-to-array",
-            "name": "stream-to-array",
-            "path": "stream-to-array/stream-to-array.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../node/node.d.ts"
-                ],
-                "name": "stream-to-array",
-                "version": "",
-                "description": "",
-                "projectUrl": "https://github.com/stream-utils/stream-to-array",
-                "authors": [
-                    {
-                        "name": "Bart van der Schoor",
-                        "url": "https://github.com/Bartvds"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "streamjs",
-            "name": "streamjs",
-            "path": "streamjs/streamjs.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "streamjs 1.5.0",
-                "version": "1.5.0",
-                "description": "",
-                "projectUrl": "http://winterbe.github.io/streamjs",
-                "authors": [
-                    {
-                        "name": "Bence Eros",
-                        "url": "https://github.com/erosb"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "string_score",
-            "name": "string_score",
-            "path": "string_score/string_score.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "string_score 0.1.22",
-                "version": "0.1.22",
-                "description": "",
-                "projectUrl": "https://github.com/joshaven/string_score",
-                "authors": [
-                    {
-                        "name": "Marcin Porębski",
-                        "url": "https://github.com/marcinporebski"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "stripe-checkout",
-            "name": "stripe-checkout",
-            "path": "stripe-checkout/stripe-checkout.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../stripe/stripe.d.ts"
-                ],
-                "name": "Stripe Checkout",
-                "version": "",
-                "description": "",
-                "projectUrl": "https://stripe.com/checkout",
-                "authors": [
-                    {
-                        "name": "Chris Wrench",
-                        "url": "https://github.com/cgwrench"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "stripe",
-            "name": "stripe",
-            "path": "stripe/stripe.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "stripe",
-                "version": "",
-                "description": "",
-                "projectUrl": "https://stripe.com",
-                "authors": [
-                    {
-                        "name": "Eric J. Smith",
-                        "url": "https://github.com/ejsmith"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "strophe",
-            "name": "strophe",
-            "path": "strophe/strophe.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "Strophe.js v1.2.0",
-                "version": "1.2.0",
-                "description": "",
-                "projectUrl": "http://strophe.im/strophejs",
-                "authors": [
-                    {
-                        "name": "David Deutsch",
-                        "url": "https://github.com/DavidKDeutsch"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "stylus",
-            "name": "stylus",
-            "path": "stylus/stylus.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../node/node.d.ts"
-                ],
-                "name": "stylus 0.48.1",
-                "version": "0.48.1",
-                "description": "",
-                "projectUrl": "https://github.com/LearnBoost/stylus",
-                "authors": [
-                    {
-                        "name": "Maxime LUCE",
-                        "url": "https://github.com/SomaticIT"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "succinct",
-            "name": "succinct",
-            "path": "succinct/succinct.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../jquery/jquery.d.ts"
-                ],
-                "name": "jQuery Succinct v1.1.0",
-                "version": "1.1.0",
-                "description": "",
-                "projectUrl": "http://mikeking.io/succinct",
-                "authors": [
-                    {
-                        "name": "Matt Brooks",
-                        "url": "https://github.com/EnableSoftware"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "sugar",
-            "name": "sugar",
-            "path": "sugar/sugar.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "Sugar 1.3.9",
-                "version": "1.3.9",
-                "description": "",
-                "projectUrl": "http://sugarjs.com",
-                "authors": [
-                    {
-                        "name": "Josh Baldwin",
-                        "url": "https://github.com/jbaldwin"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "superagent",
-            "name": "superagent",
-            "path": "superagent/superagent.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../node/node.d.ts"
-                ],
-                "name": "SuperAgent 0.15.4",
-                "version": "0.15.4",
-                "description": "",
-                "projectUrl": "https://github.com/visionmedia/superagent",
-                "authors": [
-                    {
-                        "name": "Alex Varju",
-                        "url": "https://github.com/varju"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "supertest",
-            "name": "supertest",
-            "path": "supertest/supertest.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../superagent/superagent.d.ts"
-                ],
-                "name": "SuperTest 0.14.0",
-                "version": "0.14.0",
-                "description": "",
-                "projectUrl": "https://github.com/visionmedia/supertest",
-                "authors": [
-                    {
-                        "name": "Alex Varju",
-                        "url": "https://github.com/varju"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "svg-pan-zoom",
-            "name": "svg-pan-zoom",
-            "path": "svg-pan-zoom/svg-pan-zoom.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "svg-pan-zoom v2.3.9",
-                "version": "2.3.9",
-                "description": "",
-                "projectUrl": "https://github.com/ariutta/svg-pan-zoom",
-                "authors": [
-                    {
-                        "name": "Chintan Shah",
-                        "url": "https://github.com/Promact"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "svg2png",
-            "name": "svg2png",
-            "path": "svg2png/svg2png.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "svg2png node package",
-                "version": "",
-                "description": "",
-                "projectUrl": "https://github.com/domenic/svg2png",
-                "authors": [
-                    {
-                        "name": "hans windhoff",
-                        "url": "https://github.com/hansrwindhoff"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
             "project": "svgjs.draggable",
             "name": "svgjs.draggable",
             "path": "svgjs.draggable/svgjs.draggable.d.ts",
@@ -20975,30 +20794,6 @@
             }
         },
         {
-            "project": "swig",
-            "name": "swig",
-            "path": "swig/swig.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "swig",
-                "version": "",
-                "description": "",
-                "projectUrl": "http://github.com/paularmstrong/swig",
-                "authors": [
-                    {
-                        "name": "Peter Harris",
-                        "url": "https://github.com/CodeAnimal"
-                    },
-                    {
-                        "name": "Carlos Ballesteros Velasco",
-                        "url": "https://github.com/soywiz"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
             "project": "swipe",
             "name": "swipe",
             "path": "swipe/swipe.d.ts",
@@ -21073,132 +20868,6 @@
                     {
                         "name": "Bruno Grieder",
                         "url": "https://github.com/bgrieder"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "swiz",
-            "name": "swiz",
-            "path": "swiz/swiz.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "swiz",
-                "version": "",
-                "description": "",
-                "projectUrl": "https://github.com/racker/node-swiz",
-                "authors": [
-                    {
-                        "name": "Jeff Goddard",
-                        "url": "https://github.com/jedigo"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "systemjs",
-            "name": "systemjs",
-            "path": "systemjs/systemjs.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "System.js 0.18.4",
-                "version": "0.18.4",
-                "description": "",
-                "projectUrl": "https://github.com/systemjs/systemjs",
-                "authors": [
-                    {
-                        "name": "Ludovic HENIN",
-                        "url": "https://github.com/ludohenin"
-                    },
-                    {
-                        "name": "Nathan Walker",
-                        "url": "https://github.com/NathanWalker"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "tabtab",
-            "name": "tabtab",
-            "path": "tabtab/tabtab.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "tabtab 0.0.4",
-                "version": "0.0.4",
-                "description": "",
-                "projectUrl": "https://github.com/mklabs/node-tabtab",
-                "authors": [
-                    {
-                        "name": "Vojtěch Habarta",
-                        "url": "https://github.com/vojtechhabarta"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "tape",
-            "name": "tape",
-            "path": "tape/tape.d.ts",
-            "semver": null,
-            "info": {
-                "references": [
-                    "../node/node.d.ts"
-                ],
-                "name": "tape v2.12.3",
-                "version": "2.12.3",
-                "description": "",
-                "projectUrl": "https://github.com/substack/tape",
-                "authors": [
-                    {
-                        "name": "Bart van der Schoor",
-                        "url": "https://github.com/Bartvds"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "tar",
-            "name": "tar",
-            "path": "tar/tar.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "tar v1.0.1",
-                "version": "1.0.1",
-                "description": "",
-                "projectUrl": "https://github.com/npm/node-tar",
-                "authors": [
-                    {
-                        "name": "Maxime LUCE",
-                        "url": "https://github.com/SomaticIT"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "tcomb",
-            "name": "tcomb",
-            "path": "tcomb/tcomb.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "tcomb v1.0.3",
-                "version": "1.0.3",
-                "description": "",
-                "projectUrl": "http://gcanti.github.io/tcomb/guide/index.html",
-                "authors": [
-                    {
-                        "name": "Hans Windhoff",
-                        "url": "https://github.com/hansrwindhoff"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
