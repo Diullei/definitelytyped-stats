@@ -8,8 +8,9 @@
   "dependencies": {
     "DefinitelyTyped": "borisyankov/definitelytyped",
     "bluebird": "^2.9.30",
+    "progress": "^1.1.8",
     "rimraf": "^2.4.0",
-    "tsd": "^0.5.7",
+    "tsd": "^0.6.4",
     "typescript": "1.4.1"
   },
   "devDependencies": {
@@ -17,7 +18,6 @@
     "grunt-ts": "*",
     "grunt-tslint": "~0.4.1",
     "grunt-contrib-clean": "~0.5.0",
-    "grunt-contrib-copy": "*",
     "time-grunt": "*",
     "grunt-jasmine-node": "*",
     "load-grunt-tasks": "*"

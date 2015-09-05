@@ -11,26 +11,23 @@ module.exports = function(grunt) {
         },
         ts: {
             build: {
-                src: ['src/**/*.ts', 'test/**/*.ts'],
+                files: [
+                    // { src: ['test/**/*.ts'], dest: 'test/' }
+                    { src: ['src/**/*.ts'],  dest: 'dist/' }
+                ],
                 options: {
+                    fast: 'never',
                     target: 'es3',
                     module: 'commonjs',
                     sourceMap: false,
                     declaration: false,
                     removeComments: true,
-                    compiler: './node_modules/typescript/bin/tsc'
-                },
-            }
-        },
-
-        copy: {
-            main: {
-                files: [
-                    {expand: true, cwd: 'src/', src: ['**/*.js'], dest: 'dist/'}
-                ]
+                    compiler: './node_modules/typescript/bin/tsc',
+                    outDir: 'dist'
+                }
             }
         }
     });
 
-    grunt.registerTask('default', ['clean', 'ts:build', 'copy']);
+    grunt.registerTask('default', ['clean', 'ts:build']);
 };
