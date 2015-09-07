@@ -2,8 +2,8 @@
     "urls": {
         "def": "https://github.com/borisyankov/DefinitelyTyped/blob/master/{path}"
     },
-    "updatedAt": 1441391183229,
-    "count": 1110,
+    "updatedAt": 1441663768286,
+    "count": 1116,
     "content": [
         {
             "project": "amcharts",
@@ -788,6 +788,28 @@
                     {
                         "name": "Scott Hatcher",
                         "url": "https://github.com/scatcher"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "angular-gettext",
+            "name": "angular-gettext",
+            "path": "angular-gettext/angular-gettext.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../angularjs/angular.d.ts"
+                ],
+                "name": "angular-gettext v2.1.0",
+                "version": "2.1.0",
+                "description": "",
+                "projectUrl": "https://angular-gettext.rocketeer.be",
+                "authors": [
+                    {
+                        "name": "Ákos Lukács",
+                        "url": "https://github.com/AkosLukacs"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -8222,6 +8244,31 @@
             }
         },
         {
+            "project": "gulp-help",
+            "name": "gulp-help",
+            "path": "gulp-help/gulp-help.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../bluebird/bluebird.d.ts",
+                    "../node/node.d.ts",
+                    "../gulp/gulp.d.ts",
+                    "../orchestrator/orchestrator.d.ts"
+                ],
+                "name": "gulp-help",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/chmontgomery/gulp-help",
+                "authors": [
+                    {
+                        "name": "Qubo",
+                        "url": "https://github.com/tkQubo"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "gulp-if",
             "name": "gulp-if",
             "path": "gulp-if/gulp-if.d.ts",
@@ -9427,6 +9474,26 @@
             }
         },
         {
+            "project": "httperr",
+            "name": "httperr",
+            "path": "httperr/httperr.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "httperr v1.0.0",
+                "version": "1.0.0",
+                "description": "",
+                "projectUrl": "https://github.com/pluma/httperr",
+                "authors": [
+                    {
+                        "name": "Troy Gerwien",
+                        "url": "https://github.com/yortus"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "humane",
             "name": "humane",
             "path": "humane/humane.d.ts",
@@ -10517,6 +10584,28 @@
                     {
                         "name": "Nathan Pitman",
                         "url": "https://github.com/Seltzer"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "jquery-urlparam",
+            "name": "jquery-urlparam",
+            "path": "jquery-urlparam/jquery-urlparam.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../jquery/jquery.d.ts"
+                ],
+                "name": "jquery-urlparam",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://gist.github.com/stpettersens/e1f4478f299b6f4905c1",
+                "authors": [
+                    {
+                        "name": "Sam Saint-Pettersen",
+                        "url": "https://github.com/stpettersens"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -15593,6 +15682,28 @@
             }
         },
         {
+            "project": "ng-dialog",
+            "name": "ng-dialog",
+            "path": "ng-dialog/ng-dialog.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../angularjs/angular.d.ts"
+                ],
+                "name": "ngDialog",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/likeastore/ngDialog",
+                "authors": [
+                    {
+                        "name": "Stephen Lautier",
+                        "url": "https://github.com/stephenlautier"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "ng-file-upload",
             "name": "ng-file-upload",
             "path": "ng-file-upload/ng-file-upload.d.ts",
@@ -20024,6 +20135,26 @@
             }
         },
         {
+            "project": "ski",
+            "name": "ski",
+            "path": "ski/ski.d.ts",
+            "semver": null,
+            "info": {
+                "references": [],
+                "name": "ski 1.1.0",
+                "version": "1.1.0",
+                "description": "",
+                "projectUrl": "https://github.com/jden/ski",
+                "authors": [
+                    {
+                        "name": "Aya Morisawa",
+                        "url": "https://github.com/AyaMorisawa"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
             "project": "skyway",
             "name": "skyway",
             "path": "skyway/skyway.d.ts",
@@ -20431,6 +20562,28 @@
                     {
                         "name": "Bradley Ayers",
                         "url": "https://github.com/bradleyayers"
+                    }
+                ],
+                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
+            }
+        },
+        {
+            "project": "ssh2",
+            "name": "ssh2",
+            "path": "ssh2/ssh2.d.ts",
+            "semver": null,
+            "info": {
+                "references": [
+                    "../node/node.d.ts"
+                ],
+                "name": "ssh2",
+                "version": "",
+                "description": "",
+                "projectUrl": "https://github.com/mscdex/ssh2",
+                "authors": [
+                    {
+                        "name": "Qubo",
+                        "url": "https://github.com/tkQubo"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
@@ -22575,26 +22728,6 @@
                     {
                         "name": "tgfjt",
                         "url": "https://github.com/tgfjt"
-                    }
-                ],
-                "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
-            }
-        },
-        {
-            "project": "vega",
-            "name": "vega",
-            "path": "vega/vega.d.ts",
-            "semver": null,
-            "info": {
-                "references": [],
-                "name": "Vega",
-                "version": "",
-                "description": "",
-                "projectUrl": "http://trifacta.github.io/vega",
-                "authors": [
-                    {
-                        "name": "Tom Crockett",
-                        "url": "http://github.com/pelotom"
                     }
                 ],
                 "reposUrl": "https://github.com/borisyankov/DefinitelyTyped"
