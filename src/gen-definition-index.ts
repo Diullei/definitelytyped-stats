@@ -20,8 +20,7 @@ json.urls = {
 var data = null;
 files.forEach((file) => {
     console.log(path.join(dir, file));
-    data = require(path.join(dir, file));
-    json.content.push(data);
+    json.content.push(JSON.parse(fs.readFileSync(path.join(dir, file),  { encoding:'utf8'})));
 });
 
 json.updatedAt = Date.now();
